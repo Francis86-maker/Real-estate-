@@ -83,7 +83,7 @@ transition: all 0.8s ease;
 display: none;
 width: 300px;
 max-width: 350px;
-border-radius: 20px;
+border-radius: 5px;
 transform: translateY(20px);
 opacity: 1;
 animation: slideup is forwards;
